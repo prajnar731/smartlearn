@@ -122,5 +122,5 @@ USE_TZ = True
 STATIC_URL = 'static/'
 
 # Login settings
-LOGIN_REDIRECT_URL = '/student_dashboard/'
+LOGIN_REDIRECT_URL = '/student-dashboard/'
 LOGIN_URL = 'login'
